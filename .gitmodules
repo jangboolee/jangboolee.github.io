@@ -4,9 +4,6 @@
 [submodule "personal/hugo-PaperMod"]
 	path = personal/hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod
-[submodule "test/themes/PaperMod"]
-	path = test/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "personal/themes/PaperMod"]
 	path = personal/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
