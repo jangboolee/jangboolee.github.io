@@ -1,2 +1,3 @@
 # jangboolee.github.io
-Repository for personal website
+
+Repository for personal website, using hugo
