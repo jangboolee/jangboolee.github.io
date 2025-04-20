@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Jangboo Lee</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 09:24:10 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 10:17:52 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mt. Bukhan Trail</title>
+      <link>http://localhost:1313/posts/trail-running/mt-bukhan-trail/</link>
+      <pubDate>Sun, 20 Apr 2025 10:17:52 +0900</pubDate>
+      <guid>http://localhost:1313/posts/trail-running/mt-bukhan-trail/</guid>
+      <description>&lt;h1 id=&#34;solo-run-of-the-64km-mt-bukhan-trail&#34;&gt;Solo run of the 64KM Mt. Bukhan trail&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Review of the Bose Open Ultra</title>
+      <link>http://localhost:1313/posts/product-review/bose-open-ultra/</link>
+      <pubDate>Sun, 20 Apr 2025 10:15:40 +0900</pubDate>
+      <guid>http://localhost:1313/posts/product-review/bose-open-ultra/</guid>
+      <description>&lt;h1 id=&#34;my-new-favorite-open-style-bluetooth-earbuds&#34;&gt;My new favorite open-style Bluetooth earbuds&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Using Android Private Space on GrapheneOS</title>
       <link>http://localhost:1313/posts/privacy/private-space/</link>
