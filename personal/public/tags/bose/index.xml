@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/bose/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review of the Bose Open Ultra</title>
-      <link>http://localhost:1313/posts/product-review/bose-open-ultra/</link>
+      <link>http://localhost:1313/posts/review/bose-open-ultra/</link>
       <pubDate>Sun, 20 Apr 2025 10:15:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/product-review/bose-open-ultra/</guid>
+      <guid>http://localhost:1313/posts/review/bose-open-ultra/</guid>
       <description>&lt;h1 id=&#34;my-new-favorite-open-style-bluetooth-earbuds&#34;&gt;My new favorite open-style Bluetooth earbuds&lt;/h1&gt;</description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 +++
 date = '2025-04-20T10:17:52+09:00'
-draft = true
+draft = false
 categories = ['trail-running']
 tags = ['korea', 'mt-bukhan', 'solo-adventure']
 title = 'Mt. Bukhan Trail'
