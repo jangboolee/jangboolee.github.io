@@ -6,4 +6,8 @@ tags = ['korea', 'mt-bukhan', 'solo-adventure']
 title = 'Mt. Bukhan Trail'
 +++
 
-# Solo run of the 64KM Mt. Bukhan trail
+## Introduction
+
+I finally crossed off the 64K Mt. Bukhan trail from my bucket list! I ran the course solo with a time of 12:55:45.
+
+![Mt. Bukhan Trail overview](/images/mt-bukhan-trail/mt-bukhan-gc.png)
