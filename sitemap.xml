@@ -8,11 +8,18 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-04-23T10:01:31+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/korea/</loc>
+    <lastmod>2025-04-23T10:00:21+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/running/mt-bukhan/</loc>
     <lastmod>2025-04-23T10:00:21+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tags/solo/</loc>
+    <lastmod>2025-04-23T10:00:21+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-23T10:00:21+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
