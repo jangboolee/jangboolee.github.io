@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Solo on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/solo/</link>
+    <link>https://jangboolee.github.io/tags/solo/</link>
     <description>Recent content in Solo on My New Hugo Site</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Apr 2025 10:00:21 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/solo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jangboolee.github.io/tags/solo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mt. Bukhan trail 64K solo run</title>
-      <link>http://localhost:1313/posts/running/mt-bukhan/</link>
+      <link>https://jangboolee.github.io/posts/running/mt-bukhan/</link>
       <pubDate>Wed, 23 Apr 2025 10:00:21 +0900</pubDate>
-      <guid>http://localhost:1313/posts/running/mt-bukhan/</guid>
+      <guid>https://jangboolee.github.io/posts/running/mt-bukhan/</guid>
       <description></description>
     </item>
   </channel>
