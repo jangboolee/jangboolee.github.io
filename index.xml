@@ -10,10 +10,12 @@
     <atom:link href="https://www.jangboolee.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mt. Bukhan trail 64K solo run</title>
-      <link>https://www.jangboolee.com/posts/running/mt-bukhan/</link>
+      <link>https://www.jangboolee.com/posts/running/mt-bukhan/mt-bukhan/</link>
       <pubDate>Wed, 23 Apr 2025 10:00:21 +0900</pubDate>
-      <guid>https://www.jangboolee.com/posts/running/mt-bukhan/</guid>
-      <description></description>
+      <guid>https://www.jangboolee.com/posts/running/mt-bukhan/mt-bukhan/</guid>
+      <description>&lt;h2 id=&#34;the-course&#34;&gt;The course&lt;/h2&gt;
+&lt;p&gt;The course is about 64KM long and goes around the circumference of Mt. Bukhan:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;GC overview&#34; loading=&#34;lazy&#34; src=&#34;gc_overview.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
