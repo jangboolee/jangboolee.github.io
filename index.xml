@@ -6,16 +6,64 @@
     <description>Recent content in Welcome on Jangboo Lee</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Apr 2025 10:00:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 10:00:00 +0900</lastBuildDate>
     <atom:link href="https://www.jangboolee.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mt. Bukhan trail 64K solo run</title>
       <link>https://www.jangboolee.com/posts/running/mt-bukhan/</link>
-      <pubDate>Wed, 23 Apr 2025 10:00:21 +0900</pubDate>
+      <pubDate>Fri, 28 Feb 2025 10:00:00 +0900</pubDate>
       <guid>https://www.jangboolee.com/posts/running/mt-bukhan/</guid>
-      <description>&lt;h2 id=&#34;the-course&#34;&gt;The course&lt;/h2&gt;
-&lt;p&gt;The course is about 64KM long and goes around the circumference of Mt. Bukhan:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;GC overview&#34; loading=&#34;lazy&#34; src=&#34;https://www.jangboolee.com/posts/running/mt-bukhan/gc_overview.png&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;category&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;value&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;distance_km&lt;/td&gt;
+          &lt;td&gt;64.62&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;elevation_gain_m&lt;/td&gt;
+          &lt;td&gt;3255&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;peak_elevation_m&lt;/td&gt;
+          &lt;td&gt;353&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;elapsed_time&lt;/td&gt;
+          &lt;td&gt;12:55:45&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;course_type&lt;/td&gt;
+          &lt;td&gt;circular&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;start_location&lt;/td&gt;
+          &lt;td&gt;Bulgwang station, line. 3/6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;finish_location&lt;/td&gt;
+          &lt;td&gt;Bulgwang station, line. 3/6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;start_has_lockers&lt;/td&gt;
+          &lt;td&gt;TRUE&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;garmin_link&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://connect.garmin.com/modern/activity/18398774589&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;the-course&#34;&gt;The course&lt;/h2&gt;
+&lt;p&gt;The course, called 북한산 둘레길 in Korean, is about 64KM long and goes around the circumference of Mt. Bukhan:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;GC overview&#34; loading=&#34;lazy&#34; src=&#34;https://www.jangboolee.com/posts/running/mt-bukhan/gc_overview.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Its elevation profile is not too steep, with a combined ascent of 3,255m with the peak of the course reaching  353m at around the 24K mark.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
