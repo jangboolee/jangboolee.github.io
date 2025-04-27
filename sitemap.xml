@@ -8,9 +8,6 @@
     <loc>https://www.jangboolee.com/posts/</loc>
     <lastmod>2025-04-26T06:15:00+09:00</lastmod>
   </url><url>
-    <loc>https://www.jangboolee.com/</loc>
-    <lastmod>2025-04-26T06:15:00+09:00</lastmod>
-  </url><url>
     <loc>https://www.jangboolee.com/tags/korea/</loc>
     <lastmod>2025-02-28T10:00:00+09:00</lastmod>
   </url><url>
@@ -24,5 +21,7 @@
     <lastmod>2025-02-28T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.jangboolee.com/categories/</loc>
+  </url><url>
+    <loc>https://www.jangboolee.com/search/</loc>
   </url>
 </urlset>
