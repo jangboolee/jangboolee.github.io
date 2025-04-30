@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Solo on Jangboo Lee</title>
-    <link>http://localhost:1313/tags/solo/</link>
+    <link>https://www.jangboolee.com/tags/solo/</link>
     <description>Recent content in Solo on Jangboo Lee</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 10:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/solo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jangboolee.com/tags/solo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mt. Bukhan trail 64K solo run</title>
-      <link>http://localhost:1313/posts/running/mt-bukhan/</link>
+      <link>https://www.jangboolee.com/posts/running/mt-bukhan/</link>
       <pubDate>Fri, 28 Feb 2025 10:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/running/mt-bukhan/</guid>
+      <guid>https://www.jangboolee.com/posts/running/mt-bukhan/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -66,7 +66,7 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;the-course&#34;&gt;The course&lt;/h2&gt;
 &lt;p&gt;The course, called 북한산 둘레길 in Korean, is about 64KM long and goes around the circumference of Mt. Bukhan, a national park in Korea:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;GC overview&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/running/mt-bukhan/gc_overview.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;GC overview&#34; loading=&#34;lazy&#34; src=&#34;https://www.jangboolee.com/posts/running/mt-bukhan/gc_overview.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Its elevation profile is not too steep, with a combined ascent of 3,255m with the peak of the course reaching  353m at around the 24K mark.&lt;/p&gt;</description>
     </item>
   </channel>
