@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jangboolee.com/posts/</loc>
+    <lastmod>2025-05-01T22:04:57+09:00</lastmod>
+  </url><url>
     <loc>https://www.jangboolee.com/categories/</loc>
     <lastmod>2025-04-26T06:15:00+09:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2025-04-26T06:15:00+09:00</lastmod>
   </url><url>
     <loc>https://www.jangboolee.com/posts/running/korea-50k/</loc>
-    <lastmod>2025-04-26T06:15:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.jangboolee.com/posts/</loc>
     <lastmod>2025-04-26T06:15:00+09:00</lastmod>
   </url><url>
     <loc>https://www.jangboolee.com/tags/race/</loc>
